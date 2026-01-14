@@ -1,81 +1,80 @@
 [submodule "admisi-service"]
     path = admisi-service
-    url = https://github.com/adamlabs39/admisi-service.git
-
+    url = https://github.com/wahanameditek/admisi-service.git
 
 [submodule "antrian-service"]
     path = antrian-service
-    url = https://github.com/adamlabs39/antrian-service.git
+    url = https://github.com/wahanameditek/antrian-service.git
 
 
 [submodule "auth-service"]
     path = auth-service
-    url = https://github.com/adamlabs39/auth-service.git
+    url = https://github.com/wahanameditek/auth-service.git
 
 
 
 [submodule "farmasi-service"]
     path = farmasi-service
-    url = https://github.com/adamlabs39/farmasi-service.git
+    url = https://github.com/wahanameditek/farmasi-service.git
 
 
 
 [submodule "igd-service"]
     path = igd-service
-    url = https://github.com/adamlabs39/igd-service.git
+    url = https://github.com/wahanameditek/igd-service.git
 
 
 
 [submodule "inventory-service"]
     path = inventory-service
-    url = https://github.com/adamlabs39/inventory-service.git
+    url = https://github.com/wahanameditek/inventory-service.git
 
 
 [submodule "lab-service"]
     path = lab-service
-    url = https://github.com/adamlabs39/lab-service.git
+    url = https://github.com/wahanameditek/lab-service.git
 
 
 [submodule "laporan-service"]
     path = laporan-service
-    url = https://github.com/adamlabs39/laporan-service.git
+    url = https://github.com/wahanameditek/laporan-service.git
 
 
 [submodule "payment-service"]
     path = payment-service
-    url =  https://github.com/adamlabs39/payment-service.git
+    url =  https://github.com/wahanameditek/payment-service.git
 
 
 [submodule "rawat-inap-service"]
     path = rawat-inap-service
-    url = https://github.com/adamlabs39/rawat-inap-service.git
+    url = https://github.com/wahanameditek/rawat-inap-service.git
 
 
 [submodule "rawat-jalan-service"]
     path = rawat-jalan-service
-    url = https://github.com/adamlabs39/rawat-jalan-service.git
+    url = https://github.com/wahanameditek/rawat-jalan-service.git
 
     
 [submodule "rekamedis-service"]
     path = rekamedis-service
-    url = https://github.com/adamlabs39/rekamedis-service.git
+    url = https://github.com/wahanameditek/rekamedis-service.git
 
 
 [submodule "setting-service"]
     path = setting-service
-    url = https://github.com/adamlabs39/setting-service.git
+    url = https://github.com/wahanameditek/setting-service.git
 
 
 [submodule "stok-farmasi-service"]
     path = stok-farmasi-service
-    url = https://github.com/adamlabs39/stok-farmasi-service.git
+    url = https://github.com/wahanameditek/stok-farmasi-service.git
 
 
 [submodule "frontend-service"]
     path = frontend-service
-    url = https://github.com/adamlabs39/frontend-service.git
+    url = https://github.com/wahanameditek/frontend-service.git
 
 
 [submodule "datamaster-service"]
     path = datamaster-service
-    url = https://github.com/adamlabs39/datamaster-service.git
+    url = https://github.com/wahanameditek/datamaster-service.git
