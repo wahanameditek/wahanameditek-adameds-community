@@ -1,80 +1,95 @@
 [submodule "admisi-service"]
     path = admisi-service
     url = https://github.com/wahanameditek/admisi-service.git
+    branch = github
 
 [submodule "antrian-service"]
     path = antrian-service
     url = https://github.com/wahanameditek/antrian-service.git
+    branch = github
 
 
 [submodule "auth-service"]
     path = auth-service
     url = https://github.com/wahanameditek/auth-service.git
+    branch = github
 
 
 
 [submodule "farmasi-service"]
     path = farmasi-service
     url = https://github.com/wahanameditek/farmasi-service.git
-
+    branch = github
 
 
 [submodule "igd-service"]
     path = igd-service
     url = https://github.com/wahanameditek/igd-service.git
+    branch = github
 
 
 
 [submodule "inventory-service"]
     path = inventory-service
     url = https://github.com/wahanameditek/inventory-service.git
+    branch = github
 
 
 [submodule "lab-service"]
     path = lab-service
     url = https://github.com/wahanameditek/lab-service.git
+    branch = github
 
 
 [submodule "laporan-service"]
     path = laporan-service
     url = https://github.com/wahanameditek/laporan-service.git
+    branch = github
 
 
 [submodule "payment-service"]
     path = payment-service
     url =  https://github.com/wahanameditek/payment-service.git
+    branch = github
 
 
 [submodule "rawat-inap-service"]
     path = rawat-inap-service
     url = https://github.com/wahanameditek/rawat-inap-service.git
+    branch = github
 
 
 [submodule "rawat-jalan-service"]
     path = rawat-jalan-service
     url = https://github.com/wahanameditek/rawat-jalan-service.git
+    branch = github
 
     
 [submodule "rekamedis-service"]
     path = rekamedis-service
     url = https://github.com/wahanameditek/rekamedis-service.git
+    branch = github
 
 
 [submodule "setting-service"]
     path = setting-service
     url = https://github.com/wahanameditek/setting-service.git
+    branch = github
 
 
 [submodule "stok-farmasi-service"]
     path = stok-farmasi-service
     url = https://github.com/wahanameditek/stok-farmasi-service.git
+    branch = github
 
 
 [submodule "frontend-service"]
     path = frontend-service
     url = https://github.com/wahanameditek/frontend-service.git
+    branch = github
 
 
 [submodule "datamaster-service"]
     path = datamaster-service
     url = https://github.com/wahanameditek/datamaster-service.git
+    branch = github
