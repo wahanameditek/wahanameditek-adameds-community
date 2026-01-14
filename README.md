@@ -43,7 +43,7 @@ hingga jaringan rumah sakit besar.
 ## 🧩 Architecture Overview
 
 <p align="center">
-  <img src="docs/images/architecture.png" alt="ADAMEDS Architecture" width="700"/>
+  <img src="./docs/image/architecture.png" alt="ADAMEDS Architecture" width="700"/>
 </p>
 
 ## ⚡ Quick Start (15 Minutes Setup)
