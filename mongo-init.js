@@ -1,3 +1,8 @@
+// Authenticate as root user first (uses env variables from docker-compose)
+db = db.getSiblingDB('admin');
+db.auth(process.env.MONGO_INITDB_ROOT_USERNAME, process.env.MONGO_INITDB_ROOT_PASSWORD);
+
+// Switch to target database and create application user
 db = db.getSiblingDB('adameds_v3');
 db.createUser({
   user: 'engineer_adam',
